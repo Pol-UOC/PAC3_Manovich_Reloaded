@@ -21,6 +21,8 @@ Unreal Engine 5 (UE5) és un motor gràfic desenvolupat per Epic Games. És util
 
 Aquests avenços han portat Unreal Engine a ser una plataforma essencial per a la producció virtual en cinema, com en *The Mandalorian*, on es van utilitzar entorns en temps real per substituir pantalles verdes.
 
+![alt text](ml-light-source-width-height.png)
+
 ### **Anàlisi amb "les ulleres de Manovich"**
 - **Principis del programari:** UE5 exemplifica la modularitat i la interoperabilitat, permetent integrar diferents eines i fluxos de treball en una mateixa plataforma. La seva naturalesa de source available fomenta la cultura de col·laboració i l'aprenentatge entre la comunitat de desenvolupadors, dissenyadors i artistes.
 - **Hibridació de mitjans:** Combina tecnologies d'animació 3D, disseny d'entorns, i efectes especials en temps real, barrejant les pràctiques del cinema tradicional amb els jocs i experiències immersives. És una eina transversal que desdibuixa la línia entre el món virtual i el físic, com es veu en produccions com The Mandalorian, on UE5 es va utilitzar per crear entorns virtuals en temps real.
@@ -37,6 +39,8 @@ El *ray tracing* és una tècnica de gràfics computacionals que simula la propa
 - **AMD Radeon Ray Tracing**: Amb l’arquitectura RDNA2 i RDNA3, AMD ofereix compatibilitat amb *DirectX Raytracing (DXR)* i Vulkan, fent el *ray tracing* accessible per a desenvolupadors independents.
 - **Intel Arc Ray Tracing**: Intel ha introduït GPU amb suport per DXR i XeSS (superresolució basada en IA), oferint una alternativa rendible i eficient per a *ray tracing* en temps real.
 
+![alt text](geforce-ray-tracing-portal-rtx-on-2048.webp)
+
 ### **Anàlisi amb "les ulleres de Manovich"**
 - **Principis del programari:** RTX aplica el processament paral·lel per renderitzar gràfics en temps real. Això exemplifica la capacitat del programari per optimitzar processos complexos mitjançant hardware avançat (GPUs). El Deep Learning Super Sampling (DLSS) utilitza IA per millorar la resolució i el rendiment del RTX, mostrant l'hibridació entre computació visual i intel·ligència artificial.
 - **Hibridació de mitjans:** RTX combina aspectes de la cinematografia tradicional (traçat de llum físicament precís) amb l'interactiu (videojocs i aplicacions immersives). Les aplicacions s’estenen a sectors com la publicitat i l’entreteniment.
@@ -45,3 +49,14 @@ El *ray tracing* és una tècnica de gràfics computacionals que simula la propa
 ---
 
 ## **Referències i bibliografia**
+- [**Epic Games** (2024) *Unreal Engine 5.5 Release Notes*.](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5.5-release-notes) *(Consultat: Desembre de 2024).*
+- [**Epic Games** (2024) *Unreal Engine*.](https://www.unrealengine.com) *(Consultat: Desembre de 2024).*
+- [**Epic Games** (2024) *Procedural Content Generation Overview*.](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-overview) *(Consultat: Desembre de 2024).*
+- [**Epic Games** (2024) *Path Tracer in Unreal Engine*.](https://dev.epicgames.com/documentation/en-us/unreal-engine/path-tracer-in-unreal-engine) *(Consultat: Desembre de 2024).*
+- [**Epic Games** (2024) *MegaLights in Unreal Engine*.](https://dev.epicgames.com/documentation/en-us/unreal-engine/megalights-in-unreal-engine) *(Consultat: Desembre de 2024).*
+- [**Unreal Engine YouTube channel** (2021) *Welcome to Unreal Engine 5 Early Access*.](https://www.youtube.com/watch?v=d1ZnM7CH-v4) *(Consultat: Desembre de 2024).*
+- [**YouTube** (2024) *Why Unreal Engine 5.5 is a BIG Deal*.](https://www.youtube.com/watch?v=BcmUZpdChhA) *(Consultat: Desembre de 2024).*
+- [**Wikipedia** (2024) *Ray tracing (graphics)*.](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) *(Consultat: Desembre de 2024).*
+- [**Nvidia** (2024) *NVIDIA GeForce RTX*.](https://www.nvidia.com/en-us/geforce/rtx/) *(Consultat: Desembre de 2024).*
+- [**AMD** (2024) *AMD RDNA™ Architecture*.](https://www.amd.com/es/technologies/rdna.html) *(Consultat: Desembre de 2024).*
+- [**Intel** (2022) *What Is Ray Tracing and How Does It Work with Intel® Arc™?*.](https://www.intel.com/content/www/us/en/support/articles/000090081/graphics/intel-arc-dedicated-graphics-family.html) *(Consultat: Desembre de 2024).*
